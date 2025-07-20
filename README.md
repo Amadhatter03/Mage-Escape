@@ -4,3 +4,4 @@ This is a short 2D platformer that I made in 10 days for the "Shovel Jam" game j
 The looping music was composed by a personal friend of mine that decided to remain anonymous.
 I also use several tutorials/guides for certain game systems.
 
+The game itself can be found on https://amadhatter03.itch.io/mage-escape
