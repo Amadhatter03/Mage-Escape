@@ -19,6 +19,5 @@ UserSettings/
 *.mdb
 *.opendb
 *.VC.db
-sysinfo.txt
 .vscode/
 .idea/
