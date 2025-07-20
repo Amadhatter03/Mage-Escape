@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\levelmanagement\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanagement\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\levelmanagement\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanagement\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\levelmanagement\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanagement\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|c:\\users\\ae2k1\\unity projects\\shovel jam game\\assets\\scripts\\enemies\\rangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\rangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|c:\\users\\ae2k1\\unity projects\\shovel jam game\\assets\\scripts\\enemies\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|c:\\users\\ae2k1\\unity projects\\shovel jam game\\assets\\scripts\\enemies\\enemy_vertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy_vertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\enemies\\enemy_sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy_sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\core\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\collectables\\soulpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectables\\soulpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\player\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\assets\\scripts\\core\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A336F-37DC-9BFE-87D4-7BE1777F8FFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RangedEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Enemies\\RangedEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\RangedEnemy.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Enemies\\RangedEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\RangedEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T00:01:46.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeleeEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T00:01:45.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy_Vertical.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Enemies\\Enemy_Vertical.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy_Vertical.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Enemies\\Enemy_Vertical.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy_Vertical.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:48:29.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\UI\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\UI\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PauseMenu.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:33:52.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\LevelManagement\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManagement\\GameController.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\LevelManagement\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManagement\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:07:57.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\LevelManagement\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManagement\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\LevelManagement\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManagement\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:07:55.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelLoader.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\LevelManagement\\LevelLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManagement\\LevelLoader.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\LevelManagement\\LevelLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManagement\\LevelLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:07:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy_Sideways.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Enemies\\Enemy_Sideways.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy_Sideways.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Enemies\\Enemy_Sideways.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy_Sideways.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T19:35:28.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SoulPiece.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Collectables\\SoulPiece.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectables\\SoulPiece.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Collectables\\SoulPiece.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectables\\SoulPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:35:28.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerRespawn.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:58:14.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Core\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Projectile.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Core\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:43:57.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:44:31.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Health.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Health.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T19:15:20.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyDamage.cs",
+              "DocumentMoniker": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Core\\EnemyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\EnemyDamage.cs",
+              "ToolTip": "C:\\Users\\ae2k1\\Unity Projects\\Shovel Jam Game\\Assets\\Scripts\\Core\\EnemyDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\EnemyDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:47:34.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
